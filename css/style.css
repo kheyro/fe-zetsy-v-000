@@ -34,3 +34,7 @@ header a {
 	color: #98ada6;
 	text-decoration: none;
 }
+
+#featured img {
+	border: 5px #98ada6 solid;
+}
