@@ -53,6 +53,10 @@ header a {
     border: 5px #6f7f7a solid;
 }
 
+#press {
+  margin-bottom: 20px;
+}
+
 p {
   color: #555;
   font-size: 1em;
