@@ -30,6 +30,11 @@ h1 {
   border-bottom: 1px solid #ccc;
 }
 
+h2 {
+	font-size: 2em;
+	color: #98ada6;
+}
+
 header a {
 	color: #98ada6;
 	text-decoration: none;
