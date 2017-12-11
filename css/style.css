@@ -43,3 +43,8 @@ header a {
 #featured img {
 	border: 5px #98ada6 solid;
 }
+
+#press img {
+  border: 5px #ccc solid;
+  padding: 1px;
+}
