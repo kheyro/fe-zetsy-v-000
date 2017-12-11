@@ -48,3 +48,9 @@ header a {
   border: 5px #ccc solid;
   padding: 1px;
 }
+
+p {
+    color: #555;
+    font-size: 1em;
+    margin: 0 0 20px 0;
+}
